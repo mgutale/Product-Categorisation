@@ -5,7 +5,7 @@ by: Mohamed Gutale
 
 ## 1. Introduction
 
-This is a retail project which involves in product categorisation. Getting the correct product categorisation a very important step for online retail shops. In the old days, the categorisation used to be completed manually which is a tideos job however in todays modern technology, many online retailer employ machine learning tactics to automate this process. 
+This is a retail project which aims to categorise multi-level products into categories automaticaly by using machine learning. Getting the correct product categorisation is a very important step for online retailers. In the old days, the categorisation was done manually which used to take a tremendous amount of time and resource however in todays modern technology, many online retailer employ machine learning techniques to automate this process. 
 
 ## 2. Problem Definition
 
